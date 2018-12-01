@@ -1,5 +1,6 @@
-Gemfile.lock
-_site/
-_posts/
-category/
-*~
+_site
+.sass-cache
+node_modules
+/vendor
+.DS_Store
+.idea
