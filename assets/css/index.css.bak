@@ -2,7 +2,7 @@
 
 .site-header{
     color: #fff;
-    background: #4183c4;
+    background: \assets\images\41820015_p0.jpg
 }
 
 .site-header #site-header-brand {
