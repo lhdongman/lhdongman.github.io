@@ -9,16 +9,17 @@ menu: Bookmark
 - [MapArea](https://rpg.blue/forum.php?mod=viewthread&tid=398744&highlight=区域) - 地图区域编辑插件
 - [MOG_menu](https://rpg.blue/thread-404559-1-11.html) - MOG菜单修改
 - 【素材规格】 RMMV自带F1教程——▼ Documentation →  Asset Standards
-- [JAXB](https://jaxb.java.net/) - Java Architecture for XML Binding
 
 ## 填坑相关笔记
-- 地图区域编辑插件
+
+### 地图区域编辑插件
+
 passList：指定区域角色可以通过，并且会被当前地图的图块遮罩住，可以用来做穿墙。【17,20,21,22】
 blockList：指定区域角色不可以通过【23,18】
 brushList：指定区域角色可以通过，但会变成半透明【24,19】
 soulslist：将多个区域绑定为一个【暂未设置】
 
-- 也许用得上的已知插件
+### 也许用得上的已知插件
 
 - MOG插件
 
@@ -80,7 +81,7 @@ SAN_AnalogMove 像素移动【交通工具有问题】（可尝试Quasi Movement
 - 战斗类
 《Cerotte - 锦上添花》:?http://163.fm/cZBvK4W
 
-### 游戏开局礼物（暂定
+## 游戏开局礼物（暂定
 - 奇异的宝石
 一种奇异的宝石，似乎没有什么卵用
 - 速冻面包
