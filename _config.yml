@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Atelier-Icelf
-name: 冰精的摸鱼工房
-email: csxy010317jack@qq.com
-location: 致远星
-company: 格兰赛法
-company_url: http://game.granbluefantasy.jp/
-github_url: https://github.com/Atelier-Icelf
-description: ...折返吧
+title: I am Chuan !
+name: DONGChuan
+email: dongchuan55@gmail.com
+location: Nice, France
+company: Gfi Informatique
+company_url: http://www.gfi.fr/en/
+github_url: https://github.com/DONGChuan
+description: This is personnel website of DONG Chuan
 favicon: favicon.png # Image must be in assets/images
 
-url: https://atelier-icelf.github.io/ # the base hostname & protocol for your site
+url: http://dongchuan.github.io # the base hostname & protocol for your site
 
 ## Gem
 gems:
@@ -53,23 +53,23 @@ paginate_path: 'page:num'
 navs:
   -
     href: /
-    label: 芦苇原
+    label: Home
 
   -
     href: /open-source
-    label: 铸造屋
+    label: Open-Source
 
   -
     href: /blog
-    label: 大书库
+    label: Blog
 
   -
     href: /bookmark
-    label: 存档点
+    label: Bookmark
 
   -
     href: /about
-    label: 碑文
+    label: About
 
 # Sidebar to show popular repo
 side_bar_repo_limit: 5 # Number of repos to show
