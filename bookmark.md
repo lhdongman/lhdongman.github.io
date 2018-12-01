@@ -1,100 +1,95 @@
 ---
 layout: post
-title: Bookmarks
-subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; To mark useful libs - tools - books
+title: 枪毙名单（不
+subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; 也许什么时候用得上系列
 menu: Bookmark
 ---
 
-## Java
-- [Dom4j](https://dom4j.github.io/) - Flexible XML framework
-- [Gson](https://github.com/google/gson) - Google Library to support JSON
-- [Xstream](http://x-stream.github.io/index.html) -  Serialize objects to XML and back again
+## 填坑相关链接
+- [MapArea](https://rpg.blue/forum.php?mod=viewthread&tid=398744&highlight=区域) - 地图区域编辑插件
+- [MOG_menu](https://rpg.blue/thread-404559-1-11.html) - MOG菜单修改
+- 【素材规格】 RMMV自带F1教程——▼ Documentation →  Asset Standards
 - [JAXB](https://jaxb.java.net/) - Java Architecture for XML Binding
 
-## Android
-- [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images
-- [greenDAO](http://greendao-orm.com/) - greenDAO is a light and fast ORM solution that maps objects to SQLite databases
-- [EventBus](http://greenrobot.github.io/EventBus/) - Android optimized event bus that simplifies communication
-- [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere) - Backport of Android Transitions API for animations
-- [Battery Historian](https://github.com/google/battery-historian) - Analyze battery consumers using Android "bugreport" files
-- [Facebook Rebound](http://facebook.github.io/rebound/) - Spring Animations for Android
-- [Dagger](http://google.github.io/dagger/) - Dagger is a fully static, compile-time dependency injection framework for both Java and Android
-- [Retrofit](http://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java
-- [OkHttp](http://square.github.io/okhttp/) - An HTTP & HTTP/2 client for Android and Java applications
-- [Butter Knife](http://jakewharton.github.io/butterknife/) - Annotate fields with @BindView and a view ID for Butter Knife to find and automatically cast the corresponding view in your layout.
-- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - Powerful & easy to use chart library for Android
-- [Robolectric](http://robolectric.org/) - Unit test framework
+## 填坑相关笔记
+- 地图区域编辑插件
+passList：指定区域角色可以通过，并且会被当前地图的图块遮罩住，可以用来做穿墙。【17,20,21,22】
+blockList：指定区域角色不可以通过【23,18】
+brushList：指定区域角色可以通过，但会变成半透明【24,19】
+soulslist：将多个区域绑定为一个【暂未设置】
 
-## IOS
-- [Popping](https://github.com/schneiderandre/popping) - A collection of animation examples for iOS apps.
+- 也许用得上的已知插件
 
-## PHP
-- [Idiorm](https://github.com/j4mie/idiorm/) - A lightweight nearly-zero-config object-relational mapper and fluent query builder for PHP5
-- [GitElephant](https://github.com/matteosister/GitElephant) - An abstraction layer to manage your git repositories with php
-- [Propel](https://github.com/propelorm/Propel) - ORM for PHP5
-- [SimpleDOM](https://code.google.com/archive/p/simpledom/) - Built upon SimpleXML and provids DOM methods using SimpleXML's syntax.
+- MOG插件
 
-### Symfony
-- [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generate a decent documentation for your APIs
-- [FOSRestBundle](http://symfony.com/doc/current/bundles/FOSRestBundle/index.html) - Creat a REST API with Symfony2
+【战斗类全收入】
+MOG_ATB AT战斗
+MOG_ATB_Gauge AT条
+MOG - ActorTurnIndicator 轮到某个角色时的光效
+MOG_actorPictureCM 特写
+MOG_BalloonActionName 出招喊话
+MOG_battleCry 战斗行动语音
+MOG_AuraEffect 战斗图的形变特效
+    battlebackEX到BossHP必备
+MOG_consecutiveBattle 连续战斗（肥狗那种多回合制）
+    TrPopUpBattle 打死怪后跳出掉落物
 
-## Javascript
-- [fullPage.js](http://alvarotrigo.com/fullPage/) - To create fullscreen scrolling websites / single page websites
-- [lunr.js](http://lunrjs.com/) - Simple full-text search
-- [Trip.js](http://eragonj.github.io/Trip.js/index.html) - Help you customize a tutorial trip easily with more flexibilities
-- [Moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates in JavaScript.
-- [Underscore.js](http://underscorejs.org/) - It provides a whole mess of useful functional programming helpers without extending any built-in objects.
+【HUD类只收入TimeSystem_HUD】
 
-### AngularJs
-- [Protractor](http://angular.github.io/protractor) - End-to-end test framework for AngularJS applications
-- [angular-media-player](https://github.com/colthreepv/angular-media-player) - Directive for audio and video
-- [Smart table](http://lorenzofox3.github.io/smart-table-website/) - Module to easily display data in a table
-- [ng-table](http://esvit.github.io/ng-table/#/) - Module to easily display data in a table
-- [ngToast](https://github.com/tameraydin/ngToast) - AngularJS toast
-- [ANGM-GENERATOR](http://newaeonweb.com.br/generator-angm/) - AngularJS Yeoman Generator
+【MENU类全收入】
+scrollBar 滚动条
 
-### Node.js
-- [utility](https://github.com/node-modules/utility) - A collection of useful utilities
-- [cheerio](https://github.com/cheeriojs/cheerio) - Implementation of core jQuery designed specifically for the server
-- [mongoose](http://mongoosejs.com/) - elegant mongodb object modeling for node.js
-- [SuperAgent](http://visionmedia.github.io/superagent/) - Super Agent is light-weight progressive ajax API
-- [connect-mongo](https://github.com/kcbanner/connect-mongo) - MongoDB session store for Express and Connect
-- [Morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
+【seenes除制作名单外均收入】
+Theatrhythm 音游战斗
+RMV – Fast Travel 快速旅行（不在范例内）
+MOG - Credits 制作名单，不收入
 
-## CSS
-- [loaders.css](https://connoratherton.com/loaders) - Delightful and performance-focused pure css loading animations
-- [Load Awesome](http://github.danielcardoso.net/load-awesome/animations.html) - Pure CSS Loaders and Spinners 
-- [Hover.css](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover effects
-- [Animate.css](https://github.com/daneden/animate.css) - Bunch of cool, fun, and cross-browser animation. 
+【gameplay类全收入】
+MOG - Event Sensor 靠近时触发事件
 
-## Front-end web UI/Framework
-- [Bootstrap](http://getbootstrap.com/) - HTML, CSS, and JS framework for developing responsive, mobile first projects on the web
-- [Angular-Material](https://material.angularjs.org/latest/) - Implementation of Google's Material Design Specification
+【地图类除显示指针外全收入】
+MOG - Destination Pointer 点击地面时显示指针，不收入
+MOG - Event Indicators 在事件上显示图片
+MOG - (Default) Pixi Filters像素过滤（可以变模糊）
 
-## Fonts
-- [Google Fonts](https://www.google.com/fonts) - So it's google fonts :D
+【标题类不收入】
+- YEP插件
+【目前必备】
+YEP_CoreEngine 核心
+    MessageCore 对话核心
+    X_ExtMesPack1 对话扩展1
+    classChangeCore 转职（战斗风格）
+    X_Subclass 概念礼装（副职业）
+- 其他暂定
+SAN_AnalogMove 像素移动【交通工具有问题】（可尝试Quasi Movement）
+跳过标题
+无限图层地图插件
+烛光
 
-## Icons
-- [Github-Octicons](https://octicons.github.com/) - GitHub's icons
-- [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) - Scalable vector icons that can instantly be customized
-- [Iconfont](http://www.iconfont.cn/) - Alibaba Icon Library (Chinese)
-- [flag-icon-css](http://lipis.github.io/flag-icon-css/) - Country Flags
-- [weloveiconfonts](http://weloveiconfonts.com/) - Icon fonts
-- [Material Icon](https://design.google.com/icons/#ic_accessibility) - Material icons
+- 地图格子像素 48x48
 
-## Color
-- [Minimalist-Color-Palettes](https://www.behance.net/gallery/32154055/Minimalist-Color-Palettes-2015) - Minimalist Color Palettes
-- [Flatuiculors](http://flatuicolors.com/)
+## RMMV能做到的一些想法
+- 利用公共事件在不同区域播放不同bgm
+- thug life
 
-## Tool
-- [ProcessOn](https://www.processon.com/) - UML web app for team (Chinese)
-- [draw.io](https://www.draw.io/) - UML web app for team
-- [WinSCP](https://winscp.net/eng/download.php) - SFTP, SCP and FTP client for Windows
+## BGM素材收集
+- 通常类
+《とある魔术の禁书目録 ORIGINAL SOUND TRACK 2::インデックス》:?http://163.fm/RH5HJQe
+《しゃんはいこうちゃふぃーるど》（用作大地图）:?http://163.fm/8HnsPIn
+《荒野に吹く風》（角色出场或矿山？）:?http://163.fm/YH9SW70
+- 战斗类
+《Cerotte - 锦上添花》:?http://163.fm/cZBvK4W
 
-## Books
-- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Practical Tips
-- [Git Quick Reference](http://jonas.nitro.dk/git/quick-reference.html) - Git Quick Reference
-- [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/index.html) - HTTP+JSON API design practices
-
-## Websites
-- [HTML5 Up](https://html5up.net/) - Site Template
+### 游戏开局礼物（暂定
+- 奇异的宝石
+一种奇异的宝石，似乎没有什么卵用
+- 速冻面包
+神奇的面包，食用后恢复大量的hp,mp但是SAN值会减少，并且会发生神奇的效果
+- 鸡盒
+鸡盒王的遗物，使用后会变得非常亢奋(小心变肥)
+- 墨镜
+普通的墨镜，可以避免狗眼被闪瞎
+- 金坷垃
+不流失，不蒸发，零浪费
+- 滑鸡炸弹
+对敌人投掷可造成伤害与精神污染
