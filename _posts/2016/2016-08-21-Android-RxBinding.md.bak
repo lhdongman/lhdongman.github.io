@@ -1,37 +1,49 @@
 ---
 layout: post
-title: 测试
+title: RxBinding 学习笔记
 category: android
 tags: [android]
 ---
 
-测试一篇文章
+RxJava binding APIs for Android's UI widgets. 学习的是 [JakeWharton 的版本](https://github.com/JakeWharton/RxBinding). 另外还有用于 mvvm 的 [ogaclejapan 版本](https://github.com/ogaclejapan/RxBinding).
 
-## 加粗黑字
+RxBinding 是 RxAndroid 中处理控件异步调用的方式. 通过绑定组件, 异步获取事件, 并进行处理. 编码风格非常优雅. 不需要去添加各种 listener 的匿名方法.
 
-文字:
+## Setup
 
-```
-框内文字
-114514
-abc
+添加依赖:
 
 ```
-
-第二行:
-
-```
-第二个框
+compile 'io.reactivex:rxandroid:1.2.0'
+compile 'io.reactivex:rxjava:1.1.4'
+compile 'com.jakewharton.rxbinding:rxbinding:0.4.0'
 ```
 
+如果使用 `support-v4` 库还需要加入:
 
-测试链接文字[GBF](https://game.granbluefantasy.jp)
+```
+compile 'com.jakewharton.rxbinding:rxbinding-support-v4:0.4.0'
+```
 
-## 第二个加粗字
+如果使用 `appcompat-v7` 库还需要加入:
 
-测试测试
+```
+compile 'com.jakewharton.rxbinding:rxbinding-appcompat-v7:0.4.0'
+```
 
-代码框:
+如果使用 `recyclerview` 需要加入:
+
+```
+compile 'com.jakewharton.rxbinding:rxbinding-recyclerview-v7:0.4.0'
+```
+
+具体信息参考[官方库](https://github.com/JakeWharton/RxBinding)
+
+## 实例
+
+思路是使用 RxJava 将安卓控件的事件转化成 Observable. 这样就可以借助于 RxJava 获取事件并进行处理.
+
+一般情况下添加控件事件:
 
 {% highlight java %}
 Button button = (Button) findViewById(R.id.button);
