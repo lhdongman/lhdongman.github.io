@@ -18,7 +18,7 @@
 }
 
 .jumbotron {
-    background: #4183c4;
+    background-image: \assets\images\background.png;
 }
 
 .site-header.site-header-nav-scrolled a {
