@@ -22,8 +22,8 @@
 }
 
 .bg {
- background£ºurl£¨'/assets/images'£©no-repeat center center; 
- position£ºfixed; 
+ background:url('/assets/images')no-repeat center center; 
+ position:fixed; 
 } 
 
 .site-header.site-header-nav-scrolled a {
