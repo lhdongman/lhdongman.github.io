@@ -24,6 +24,11 @@
 .bg {
  background:url('/assets/images/background.png')no-repeat center center; 
  position:fixed; 
+ width:100ге; 
+ height:350px; 
+ top:0; 
+ left:0; 
+ z-index:-1;
 } 
 
 .site-header.site-header-nav-scrolled a {
