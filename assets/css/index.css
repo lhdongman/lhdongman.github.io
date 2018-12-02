@@ -18,8 +18,13 @@
 }
 
 .jumbotron {
-    background: url('/assets/images/background.png')no-repeat center center;
+    background: #4183c4;
 }
+
+.bg {
+ background:url('/assets/images')no-repeat center center; 
+ position:fixed; 
+} 
 
 .site-header.site-header-nav-scrolled a {
     color: #2e2e2e;
