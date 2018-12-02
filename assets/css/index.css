@@ -22,7 +22,7 @@
  height:550px; 
  color:white; 
  text-shadow:black 0.3em 0.3em 0.3em; 
- background:#4183c4;
+ background:url('/assets/images/background.jpg')no-repeat center center;
 }
 
 .bg {
