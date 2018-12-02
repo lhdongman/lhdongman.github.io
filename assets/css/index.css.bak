@@ -23,7 +23,7 @@
 
 .bg {
  background:url('/assets/images/background.png')no-repeat center center; 
- position:top; 
+ position:fixed; 
 } 
 
 .site-header.site-header-nav-scrolled a {

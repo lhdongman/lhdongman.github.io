@@ -17,14 +17,14 @@
     color: #fff;
 }
 
-.jumbotron {
-    background: #4183c4;
-}
-
 .bg {
  background:url('/assets/images/background.png')no-repeat center center; 
  position:fixed; 
 } 
+
+.jumbotron {
+    background: #4183c4;
+}
 
 .site-header.site-header-nav-scrolled a {
     color: #2e2e2e;
