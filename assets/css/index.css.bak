@@ -26,16 +26,6 @@
  background-size: 100%;
 }
 
-.bg {
- background:url('/assets/images/background.png')no-repeat center center; 
- position:fixed; 
- width:100%; 
- height:525px; 
- top:0; 
- left:0; 
- z-index:-1;
-} 
-
 .site-header.site-header-nav-scrolled a {
     color: #2e2e2e;
 }
@@ -47,3 +37,8 @@
 .site-header.site-header-nav-scrolled a:hover {
     color: #4183c4;
 }
+
+.bg {
+ background:url('/assets/images/pageground.png')no-repeat center center; 
+ background-size: 100%;
+} 
