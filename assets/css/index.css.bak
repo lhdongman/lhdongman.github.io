@@ -20,7 +20,6 @@
 body {
  background:url('/assets/images/pageground.jpg')no-repeat top; 
  background-size: 100%;
- background-attachment:fixed
 } 
 
 .jumbotron {
