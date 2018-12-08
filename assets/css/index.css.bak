@@ -17,6 +17,11 @@
     color: #fff;
 }
 
+body {
+ background:url('/assets/images/pageground.jpg')no-repeat center center; 
+ background-size: 100%;
+} 
+
 .jumbotron {
  margin-bottom:0px; 
  height:525px; 
@@ -38,7 +43,3 @@
     color: #4183c4;
 }
 
-body {
- background:url('/assets/images/pageground.png')no-repeat center center; 
- background-size: 100%;
-} 
