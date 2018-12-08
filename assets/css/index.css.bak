@@ -38,7 +38,7 @@
     color: #4183c4;
 }
 
-.bg {
+body {
  background:url('/assets/images/pageground.png')no-repeat center center; 
  background-size: 100%;
 } 
