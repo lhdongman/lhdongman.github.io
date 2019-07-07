@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 借来的东西0v0
+title: 碑文
 menu: about
 #subtitle:   <h3>模板作者信息</h3>
             #<a role="button" class="btn btn-primary hvr-grow-shadow" href="/assets/files/CV_Chuan_Dong_FR.pdf" target="_blanks">
