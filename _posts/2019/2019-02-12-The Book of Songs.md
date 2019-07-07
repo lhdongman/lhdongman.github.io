@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 诗经自整理
+title: 《诗经：国风》节选整理
 category: 整理
 tags: [collection]
 ---

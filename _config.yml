@@ -7,7 +7,7 @@
 
 # Site settings
 title: Atelier-Icelf
-name: 冰精的摸鱼工房
+name: 冰精工房
 email: csxy010317jack@qq.com
 location: 致远星
 company: 格兰赛法
@@ -53,23 +53,23 @@ paginate_path: 'page:num'
 navs:
   -
     href: /
-    label: 芦苇原
+    label: 摸鱼部
 
   -
     href: /open-source
-    label: 铸造屋
+    label: 仓储部
 
   -
     href: /blog
-    label: 大书库
+    label: 统计部
 
   -
     href: /bookmark
-    label: 存档点
+    label: 秘书室
 
   -
     href: /about
-    label: 碑文
+    label: 人事部
 
 # Sidebar to show popular repo
 side_bar_repo_limit: 5 # Number of repos to show
