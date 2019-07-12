@@ -1,1 +1,2 @@
-It bases on the my jekyll theme [Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
+天蓝怪的炼金工房
+魔改自Yummy-Jekyll的博客模板。

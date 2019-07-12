@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 枪毙名单（不
+title: 笔记本
 subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; 也许什么时候用得上系列
 menu: Bookmark
 ---
