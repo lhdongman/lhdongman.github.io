@@ -41,7 +41,7 @@ _______
 
 ## 插入网络图片
 ![图片测试](https://img.tapimg.com/market/lcs/bc0ba842c6ae7963e6f3dcbcf8a3aae0_360.png)
-![本地图片测试](https://github.com/Atelier-Icelf/Atelier-Icelf.github.io/blob/master/assets/images/favicon.png)
+![本地图片测试](https://raw.githubusercontent.com/Atelier-Icelf/Atelier-Icelf.github.io/master/assets/images/favicon.png)
 
 ## 表格
 年|月|日|
