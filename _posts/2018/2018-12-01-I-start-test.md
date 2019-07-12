@@ -41,7 +41,7 @@ _______
 
 ## 插入网络图片
 ![图片测试](http://img5.imgtn.bdimg.com/it/u=3475862186,2306454985&fm=26&gp=0.jpg)
-![本地图片测试](..\assets\images\favicon.png)
+![本地图片测试](..\favicon.png)
 
 ## 表格
 年|月|日|
