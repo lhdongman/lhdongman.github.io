@@ -29,7 +29,7 @@ gems:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-lsi:         true
+lsi:         false
 excerpt_separator: "\n\n"
 
 source:      .
@@ -83,7 +83,7 @@ analytics :
 
 # For about.html. Fell free to create your own!
 skill_software_keywords: [Photoshop,RpgMakerXP,RpgMkaerVXace,RpgMakerMV,AdobePremiere,Vegas]
-skill_mobile_app_keywords: [摸鱼,扯淡,自闭]
+skill_mobile_app_keywords: [摸鱼,扯淡,自闭,缝合怪本当上手]
 
 # skill_software_keywords: [Java, C, C++, Qt, Python, MySQL, Oracle, SQLite, PL/SQL, Design Patterns]
 # skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
