@@ -76,3 +76,6 @@ tags: [collection]
 	
 22. [影之诗数据库](https://sv.bagoum.com)
     > 从立绘原图到音效都能直接下载，十分靠谱
+	
+23. [骂人宝典](https://nmsl.shadiao.app/?tdsourcetag=s_pcqq_aiomsg)
+    > 还附带了些其他有意思的玩意儿
