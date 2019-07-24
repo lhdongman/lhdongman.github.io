@@ -70,3 +70,9 @@ tags: [collection]
 20. [E绅士](https://e-hentai.org/)
     > 需要梯子。
    
+
+21. [苍海](https://www.258ch.com/)
+    > 似乎能找到一些工具？
+	
+22. [影之诗数据库](https://sv.bagoum.com)
+    > 从立绘原图到音效都能直接下载，十分靠谱
