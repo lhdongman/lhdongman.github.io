@@ -16,7 +16,7 @@ menu: Bookmark
   <img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/MarianoAndTiara.png"  alt="MarianoAndTiara" /> 
 
 <details>
-  <summary>▶GKD◀</summary>
+  <summary><div class="text" style=" text-align:center;">▶GKD◀</div></summary>
 
   <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/5ro/MarianoAndTiara_ero.png"  alt="MarianoAndTiara_ero" /> 
 </details>
