@@ -21,10 +21,10 @@ menu: Bookmark
 </details>
   
 <details>
-<summary>GKD</summary>
+  <summary>▶GKD◀</summary>
 
-![ero1](https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/5ro/yande.re%20257970%20bottomless%20breasts%20cum%20dress_shirt%20galette%20k-ko%20nadeshiko_futaba%20nipples%20no_bra%20onii-chan_sharing%20open_shirt.jpg)
-![ero2](https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/5ro/yande.re%20257695%20partial_scan%20raw_scan.jpg)
+  <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/5ro/yande.re%20257970%20bottomless%20breasts%20cum%20dress_shirt%20galette%20k-ko%20nadeshiko_futaba%20nipples%20no_bra%20onii-chan_sharing%20open_shirt.jpg"  alt="ero1" /> 
+  <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/5ro/yande.re%20257695%20partial_scan%20raw_scan.jpg"  alt="ero2" /> 
 </details>
  
 
@@ -33,9 +33,8 @@ menu: Bookmark
 ![冷冽谷](https://github.com/Atelier-Icelf/ImageDept/raw/master/images/Darksouls/%E5%86%B7%E5%86%BD%E8%B0%B7.png)
   
 <details>
-<summary>Daisuke!</summary>
-
-![Daisuke](https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Others/daisuke.gif)
+  <summary>▶Daisuke!◀</summary>
+  <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Others/daisuke.gif"  alt="daisuke" /> 
 </details>
 
 
