@@ -25,27 +25,6 @@ alt="火鸡场">
 </div>
 
 <div class="col-sm-6 col-md-3">
-<a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/JKx2.jpg" target="_blank" class="thumbnail">
-<img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/JKx2.jpg"
-alt="JKx2">
-</a>
-</div>
-
-<div class="col-sm-6 col-md-3">
-<a href="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Nekomimi.png" target="_blank" class="thumbnail">
-<img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Nekomimi.png"
-alt="Nekomimi">
-</a>
-</div>
-
-<div class="col-sm-6 col-md-3">
-<a href="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/MarianoAndTiara.png" target="_blank" class="thumbnail">
-<img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/MarianoAndTiara.png"
-alt="MarianoAndTiara">
-</a>
-</div>
-
-<div class="col-sm-6 col-md-3">
 <a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Darksouls/Dark-Souls-3-Dark-Souls-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-crossover-3210995.png" target="_blank" class="thumbnail">
 <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Darksouls/Dark-Souls-3-Dark-Souls-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-crossover-3210995.png"
 alt="ds3">
@@ -66,12 +45,31 @@ alt="冷冽谷">
 </a>
 </div>
 
-
-
 <div class="col-sm-6 col-md-3">
 <a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Others/daisuke.gif" target="_blank" class="thumbnail">
 <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Others/daisuke.gif"
 alt="disuke">
+</a>
+</div>
+
+<div class="col-sm-6 col-md-3">
+<a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/JKx2.jpg" target="_blank" class="thumbnail">
+<img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/JKx2.jpg"
+alt="JKx2">
+</a>
+</div>
+
+<div class="col-sm-6 col-md-3">
+<a href="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Nekomimi.png" target="_blank" class="thumbnail">
+<img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Nekomimi.png"
+alt="Nekomimi">
+</a>
+</div>
+
+<div class="col-sm-6 col-md-3">
+<a href="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/MarianoAndTiara.png" target="_blank" class="thumbnail">
+<img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/MarianoAndTiara.png"
+alt="MarianoAndTiara">
 </a>
 </div>
 
