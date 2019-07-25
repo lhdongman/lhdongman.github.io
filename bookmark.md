@@ -17,9 +17,7 @@ menu: Bookmark
 <details>
   <summary>▶GKD◀</summary>
 
-  <pre><code> 
-    ![MarianoAndTiara_ero](https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/5ro/MarianoAndTiara_ero.png)
-  </code></pre> 
+  <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/5ro/MarianoAndTiara_ero.png"  alt="MarianoAndTiara_ero" /> 
 </details>
   
 <details>
