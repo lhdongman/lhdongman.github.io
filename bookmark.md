@@ -9,13 +9,13 @@ menu: Bookmark
 
 <div class="row">
 <div class="col-sm-6 col-md-3">
-<a href="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg" class="thumbnail">
+<a href="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg" target="_blank class="thumbnail">
 <img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg"
 alt="通用的占位符缩略图">
 </a>
 </div>
 <div class="col-sm-6 col-md-3">
-<a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/FirelinkShrine.png" class="thumbnail">
+<a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/FirelinkShrine.png" target="_blank class="thumbnail">
 <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/FirelinkShrine.png"
 alt="通用的占位符缩略图">
 </a>
