@@ -4,7 +4,6 @@ title: 画廊
 subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; 雅俗共赏
 menu: Bookmark
 ---
-{% include clickable-image.html %}
 
 
 
