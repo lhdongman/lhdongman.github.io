@@ -6,20 +6,33 @@ menu: Bookmark
 ---
 
 
-<ul class="thumbnails">
-  <li class="span4">
-    <a href="#" class="thumbnail">
-      <img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg" alt="">
-    </a>
-  </li>
-      
-  <li class="span1">
-    <a href="#" class="thumbnail">
-      <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/FirelinkShrine.png" alt="">
-    </a>
-  </li>
-	
-</ul>
+
+<div class="row">
+<div class="col-sm-6 col-md-3">
+<a href="#" class="thumbnail">
+<img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg"
+alt="通用的占位符缩略图">
+</a>
+</div>
+<div class="col-sm-6 col-md-3">
+<a href="#" class="thumbnail">
+<img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/FirelinkShrine.png"
+alt="通用的占位符缩略图">
+</a>
+</div>
+<div class="col-sm-6 col-md-3">
+<a href="#" class="thumbnail">
+<img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/JKx2.jpg"
+alt="通用的占位符缩略图">
+</a>
+</div>
+<div class="col-sm-6 col-md-3">
+<a href="#" class="thumbnail">
+<img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Nekomimi.png"
+alt="通用的占位符缩略图">
+</a>
+</div>
+</div>
 
 
 
