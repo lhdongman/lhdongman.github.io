@@ -6,8 +6,9 @@ menu: Bookmark
 ---
 
 # 2019年
-## 七月
-  
+<details>
+  <summary><h1 style="font-size:200%">▶七月◀</h1></summary>
+
 ![湖上冰精](https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg)
 ![火鸡场](https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/FirelinkShrine.png)
 ![jkx2](https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/JKx2.jpg)
@@ -36,5 +37,9 @@ menu: Bookmark
   <summary>▶Daisuke!◀</summary>
   <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Others/daisuke.gif"  alt="daisuke" /> 
 </details>
+
+</details>
+
+  
 
 

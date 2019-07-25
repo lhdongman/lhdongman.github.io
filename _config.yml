@@ -65,11 +65,11 @@ navs:
 
   -
     href: /bookmark
-    label: 秘书室
+    label: 画廊
 
   -
     href: /about
-    label: 人事部
+    label: 秘书室
 
 # Sidebar to show popular repo
 side_bar_repo_limit: 5 # Number of repos to show
