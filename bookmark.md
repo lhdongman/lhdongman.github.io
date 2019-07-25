@@ -9,6 +9,7 @@ menu: Bookmark
 
 <div class="row">
 <div class="col-sm-6 col-md-3">
+{% include clickable-image.html %}
 <a href="#" class="thumbnail">
 <img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg"
 alt="通用的占位符缩略图">
@@ -74,37 +75,53 @@ alt="通用的占位符缩略图">
 
 
 
-<script type="text/javascript"> 
-    //图片放大  
-    $("#outerdiv").hide();
-    $(function(){  
-    $("img").mouseover(function(){
-        $(this).css("cursor","pointer");
-    });
+.image-cover-modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    position: fixed;
+    z-index: 30;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.9);
+    transition: opacity ease 0.3s;
+    pointer-events: none;
+}
 
-    $("img").click(function(){  
-        var _this = $(this);//将当前的pimg元素作为_this传入函数    
-        imgShow("#outerdiv", "#bigimg", _this);    
-      });     
-    });    
+.model-shown {
+    pointer-events: all;
+    opacity: 1;
+}
 
-    function imgShow(outerdiv, bigimg, _this){  
-        var src = _this.attr("src");//获取当前点击的pimg元素中的src属性    
-        $('#outerdiv').attr('display','block');  
-        $(bigimg).attr("src", src);//设置#bigimg元素的src属性    
-         $(outerdiv).fadeIn("fast");  
-        
-    $(outerdiv).click(function(){//再次点击淡出消失弹出层    
-        $(this).fadeOut("fast");    
-    });    
-</script>
+.image-cover-modal-content {
+    display: block;
+    max-width: 80%;
+    max-height: 80%;
+}
 
-<div id="outerdiv" style="text-align: center;position: fixed;z-index: 1000;top: 0;left: 0;
-    width: 100%;height: 100%;background-color: rgba(255,255,255,.9);">
-    <img id="bigimg" style="height: auto;width: 46.6325%;border: 0; 
-        margin: auto;position: absolute;top: 0;bottom: 0;left: 0;right: 0;" src="" />
-</div>
+#image-cover-caption {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 3rem;
+    bottom: 0;
+    line-height: 3rem;
+    text-align: center;
+    color: #fff;
+    background: rgba(255, 255, 255, 0.33);
+}
 
+@media only screen and (max-width: 45rem){
+    .image-cover-modal-content {
+        max-width: 100%;
+        max-height: 100%;
+    }
+}
 
 
 
