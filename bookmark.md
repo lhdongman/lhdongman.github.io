@@ -9,12 +9,12 @@ menu: Bookmark
 <details>
   <summary><h1 style="font-size:200%">▶七月◀</h1></summary>
 
-![湖上冰精](https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg)
-![火鸡场](https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/FirelinkShrine.png)
-![jkx2](https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/JKx2.jpg)
-![Nekomimi](https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Nekomimi.png)
-![Nekomimi](https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/MarianoAndTiara.png)
-  
+  <img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg"  alt="湖上冰精" /> 
+  <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/FirelinkShrine.png"  alt="火鸡场" /> 
+  <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/JKx2.jpg"  alt="jkx2" /> 
+  <img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Nekomimi.png"  alt="Nekomimi" /> 
+  <img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/MarianoAndTiara.png"  alt="MarianoAndTiara" /> 
+
 <details>
   <summary>▶GKD◀</summary>
 
@@ -28,13 +28,13 @@ menu: Bookmark
   <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/5ro/yande.re%20257695%20partial_scan%20raw_scan.jpg"  alt="ero2" /> 
 </details>
  
-
-![ds3](https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Darksouls/Dark-Souls-3-Dark-Souls-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-crossover-3210995.png)
-![ds3-2](https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Darksouls/Anime-Silence-Girl-Kirisame-Marisa-Touhou-Project-3188943.png)
-![冷冽谷](https://github.com/Atelier-Icelf/ImageDept/raw/master/images/Darksouls/%E5%86%B7%E5%86%BD%E8%B0%B7.png)
+  <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Darksouls/Dark-Souls-3-Dark-Souls-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-crossover-3210995.png"  alt="ds3" /> 
+  <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Darksouls/Anime-Silence-Girl-Kirisame-Marisa-Touhou-Project-3188943.png"  alt="ds3-2" /> 
+  <img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/images/Darksouls/%E5%86%B7%E5%86%BD%E8%B0%B7.png"  alt="冷冽谷" /> 
   
 <details>
   <summary>▶Daisuke!◀</summary>
+  
   <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Others/daisuke.gif"  alt="daisuke" /> 
 </details>
 
