@@ -21,7 +21,7 @@ menu: Bookmark
     </div>  
 </div>
 
-
+<style type="text/css">
 .wrap-box {   
   display: -webkit-box;   
 }   
@@ -67,7 +67,7 @@ menu: Bookmark
 .wrap-6 .flex-inner:last-child .flex-item:nth-child(2) {   
       margin-bottom: 1px;   
 }  
-
+</style>
 
 
 
