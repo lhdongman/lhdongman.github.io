@@ -16,13 +16,13 @@ menu: Bookmark
   <img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/MarianoAndTiara.png"  alt="MarianoAndTiara" /> 
 
 <details>
-  <summary><div class="text" style=" text-align:center;">▶GKD◀</div></summary>
+  <summary><div class="text" style=" text-align:center;"><h1 style="font-size:150%">▶▶GKD◀◀</h1></div></summary>
 
   <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/5ro/MarianoAndTiara_ero.png"  alt="MarianoAndTiara_ero" /> 
 </details>
   
 <details>
-  <summary>▶GKD◀</summary>
+  <summary><div class="text" style=" text-align:center;"><h1 style="font-size:150%">▶▶GKD◀◀</h1></div></summary>
 
   <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/5ro/yande.re%20257970%20bottomless%20breasts%20cum%20dress_shirt%20galette%20k-ko%20nadeshiko_futaba%20nipples%20no_bra%20onii-chan_sharing%20open_shirt.jpg"  alt="ero1" /> 
   <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/5ro/yande.re%20257695%20partial_scan%20raw_scan.jpg"  alt="ero2" /> 
@@ -33,7 +33,7 @@ menu: Bookmark
   <img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/images/Darksouls/%E5%86%B7%E5%86%BD%E8%B0%B7.png"  alt="冷冽谷" /> 
   
 <details>
-  <summary>▶Daisuke!◀</summary>
+  <summary><div class="text" style=" text-align:center;"><h1 style="font-size:150%">▶▶Daisuke!◀◀</h1></div></summary>
   
   <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Others/daisuke.gif"  alt="daisuke" /> 
 </details>
