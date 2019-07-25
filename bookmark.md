@@ -76,8 +76,15 @@ alt="disuke">
 </div>
 
 
+
+
+</div>
+
+
 <details>
   <summary><div class="text" style=" text-align:center;">▶▶GKD◀◀</div></summary>
+
+  <div class="row">
 
   <div class="col-sm-6 col-md-3">
   <a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/5ro/MarianoAndTiara_ero.png" target="_blank" class="thumbnail">
@@ -91,13 +98,8 @@ alt="disuke">
   </a>
   </div>
 
-
-</details>
-
-
 </div>
-
-
+</details>
 
 
 <!-- # 2019年
