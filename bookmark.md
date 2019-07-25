@@ -45,12 +45,6 @@ alt="冷冽谷">
 </a>
 </div>
 
-<div class="col-sm-6 col-md-3">
-<a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Others/daisuke.gif" target="_blank" class="thumbnail">
-<img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Others/daisuke.gif"
-alt="disuke">
-</a>
-</div>
 
 <div class="col-sm-6 col-md-3">
 <a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/JKx2.jpg" target="_blank" class="thumbnail">
@@ -98,6 +92,29 @@ alt="MarianoAndTiara">
 
 </div>
 </details>
+
+
+<details>
+  <summary><div class="text" style=" text-align:center;">▶▶Daisuke!◀◀</div></summary>
+
+  <div class="row">
+
+  <div class="col-sm-6 col-md-3">
+  <a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Others/daisuke.gif" target="_blank" class="thumbnail">
+  <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/images/Others/daisuke.gif"
+  alt="disuke">
+  </a>
+  </div>
+  
+</div>
+</details>
+
+
+
+
+
+
+
 
 
 <!-- # 2019年
