@@ -7,13 +7,13 @@ menu: Bookmark
 
 
 <ul class="thumbnails">
-  <li class="span3">
+  <li class="span4">
     <a href="#" class="thumbnail">
       <img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg" alt="">
     </a>
   </li>
       
-  <li class="span3">
+  <li class="span1">
     <a href="#" class="thumbnail">
       <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/FirelinkShrine.png" alt="">
     </a>
