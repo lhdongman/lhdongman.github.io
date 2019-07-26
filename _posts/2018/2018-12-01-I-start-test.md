@@ -10,7 +10,9 @@ tags: [test]
 
 <iframe src="https://cloud.mokeyjay.com/pixiv" frameborder="0"  style="width:240px; height:380px;"></iframe>
 
-
+<iframe src ="http://game.granbluefantasy.jp" style="width:600px; height:800px;">
+<p>Your browser does not support iframes.</p>
+</iframe>
 
 
 
