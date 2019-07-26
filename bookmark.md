@@ -3,8 +3,8 @@ layout: post
 title: 画廊
 subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; 雅俗共赏
 menu: Bookmark
-music-id: 42724584
 ---
+<p>http://music.163.com/song?id=757567&userid=42724584</p>
 # 2019年
   
 ## 七月
