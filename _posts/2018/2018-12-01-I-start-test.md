@@ -51,6 +51,11 @@ _______
 ![图片测试](https://img.tapimg.com/market/lcs/bc0ba842c6ae7963e6f3dcbcf8a3aae0_360.png)
 ![本地图片测试](https://raw.githubusercontent.com/Atelier-Icelf/Atelier-Icelf.github.io/master/assets/images/favicon.png)
 
+
+## 网易云外链格式
+http://music.163.com/song/media/outer/url?id=ID数字.mp3
+
+
 ## 表格
 年|月|日|
 -|-|-|
