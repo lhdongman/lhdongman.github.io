@@ -4,7 +4,7 @@ title: 画廊
 subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; 雅俗共赏
 menu: Bookmark
 ---
-<p>http://music.163.com/song?id=757567&userid=42724584</p>
+<p>https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/1967.mp3</p>
 # 2019年
   
 ## 七月
