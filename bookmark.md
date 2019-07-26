@@ -4,7 +4,9 @@ title: 画廊
 subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; 雅俗共赏
 menu: Bookmark
 ---
-<p>https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/1967.mp3</p>
+<audio src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/1967.mp3" controls="controls" autoplay="autoplay" loop="loop">
+？害搁这用老浏览器网上冲浪呢，不支持音乐播放
+</audio>
 # 2019年
   
 ## 七月
