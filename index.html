@@ -8,13 +8,13 @@ css: ['index.css', 'sidebar-popular-repo.css']
 </audio>
 
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <link rel="stylesheet" type="text/css" href="\assets\css\waifu.min.css"/>
+     <link rel="stylesheet" type="text/css" href="\assets\css\waifu.css"/>
 </head>
-<body>    
-    <div class="waifu">
+  
+  <body>
+  <div class="waifu">
         <div class="waifu-tips"></div>
-        <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
+        <canvas id="live2d" class="live2d"></canvas>
         <div class="waifu-tool">
             <span class="fui-home"></span>
             <span class="fui-chat"></span>
@@ -25,10 +25,15 @@ css: ['index.css', 'sidebar-popular-repo.css']
             <span class="fui-cross"></span>
         </div>
     </div>
-        
-    <script src="\assets\js\waifu-tips.js"></script>
-    <script src="\assets\js\live2d.js"></script>
-    <script type="text/javascript">initModel()</script>
+    
+    <script src="\assets\css\waifu-tips.js"></script>
+    <script src="\assets\css\live2d.js"></script>
+    
+    <script type="text/javascript">
+        live2d_settings['modelId'] = 1;
+        live2d_settings['modelTexturesId'] = 87;
+    	initModel("\assets\js\waifu-tips.json")
+    </script>
 </body>
 
 
