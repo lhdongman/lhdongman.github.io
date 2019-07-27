@@ -9,13 +9,14 @@ menu: Bookmark
 </audio>
 <link rel="stylesheet" href="css/baguetteBox.min.css">
 <script src="js/baguetteBox.min.js" async></script>
+baguetteBox.run('.gallery');
 
 <div class="gallery">
     <a href="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg" data-caption="Image caption">
         <img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg" alt="First image">
     </a>
-    <a href="img/2-2.jpg">
-        <img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg" alt="Second image">
+    <a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/FirelinkShrine.png">
+        <img src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/FirelinkShrine.png" alt="Second image">
     </a>
     
 </div>
