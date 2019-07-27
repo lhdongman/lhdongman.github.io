@@ -89,8 +89,43 @@ footer {
 
 /* Highlight.js Tomorrow Night style */
 .hljs-comment,.hljs-quote{color:#969896}.hljs-deletion,.hljs-name,.hljs-regexp,.hljs-selector-class,.hljs-selector-id,.hljs-tag,.hljs-template-variable,.hljs-variable{color:#c66}.hljs-tag {color: #f8f8f2}.hljs-built_in,.hljs-builtin-name,.hljs-link,.hljs-literal,.hljs-meta,.hljs-number,.hljs-params,.hljs-type{color:#de935f}.hljs-attr{color:#f0c674}.hljs-addition,.hljs-bullet,.hljs-string,.hljs-symbol{color:#b5bd68}.hljs-section,.hljs-title{color:#81a2be}.hljs-keyword,.hljs-selector-tag{color:#b294bb}.hljs{display:block;overflow-x:auto;background:#1d1f21;color:#c5c8c6;padding:.8em}.hljs-emphasis{font-style:italic}.hljs-strong{font-weight:700}
-    </style>
+    
+</style>
+<script src="\assets\js\baguetteBox.js" async></script>
+<script src="js/highlight.min.js" async></script>
+<!--[if lt IE 9]>
+<script>
+var oldIE = true;
+</script>
+<![endif]-->
+<script>
+window.onload = function() {
+    baguetteBox.run('.baguetteBoxOne');
+    baguetteBox.run('.baguetteBoxTwo');
+    baguetteBox.run('.baguetteBoxThree', {
+        animation: 'fadeIn',
+        noScrollbars: true
+    });
+    baguetteBox.run('.baguetteBoxFour', {
+        buttons: false
+    });
+    baguetteBox.run('.baguetteBoxFive', {
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+        }
+    });
+
+    if (typeof oldIE === 'undefined' && Object.keys) {
+        hljs.initHighlighting();
+    }
+
+    var year = document.getElementById('year');
+    year.innerText = new Date().getFullYear();
+};
+</script>
+
 </head>
+
 <body>
 <a href="https://github.com/feimosi/baguetteBox.js" class="ribbon sm-hidden">
     <img src="img/forkme-on-github-right.png" alt="Fork me on GitHub">
@@ -225,37 +260,6 @@ footer {
         <a href="https://github.com/feimosi/">feimosi</a>
     </p>
 </footer>
-<script src="\assets\js\baguetteBox.js" async></script>
-<script src="js/highlight.min.js" async></script>
-<!--[if lt IE 9]>
-<script>
-var oldIE = true;
-</script>
-<![endif]-->
-<script>
-window.onload = function() {
-    baguetteBox.run('.baguetteBoxOne');
-    baguetteBox.run('.baguetteBoxTwo');
-    baguetteBox.run('.baguetteBoxThree', {
-        animation: 'fadeIn',
-        noScrollbars: true
-    });
-    baguetteBox.run('.baguetteBoxFour', {
-        buttons: false
-    });
-    baguetteBox.run('.baguetteBoxFive', {
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-        }
-    });
 
-    if (typeof oldIE === 'undefined' && Object.keys) {
-        hljs.initHighlighting();
-    }
-
-    var year = document.getElementById('year');
-    year.innerText = new Date().getFullYear();
-};
-</script>
 </body>
 </html>
