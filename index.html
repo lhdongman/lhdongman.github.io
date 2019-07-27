@@ -6,6 +6,34 @@ css: ['index.css', 'sidebar-popular-repo.css']
 <audio src="http://m10.music.126.net/20190726212340/b288110f4402edef72549978d4c565bc/ymusic/0f5e/070e/010e/8495e10d5b0df805551d6d659af313db.mp3"  autoplay="autoplay" loop="loop">
 ？害搁这用老浏览器网上冲浪呢，不支持音乐播放
 </audio>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="\assets\css\waifu.css"/>
+    <link rel="stylesheet" type="text/css" href="\assets\css\flat-ui.min.css"/>
+</head>
+<body>    
+    <div class="waifu">
+        <div class="waifu-tips"></div>
+        <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
+        <div class="waifu-tool">
+            <span class="fui-home"></span>
+            <span class="fui-chat"></span>
+            <span class="fui-eye"></span>
+            <span class="fui-user"></span>
+            <span class="fui-photo"></span>
+            <span class="fui-info-circle"></span>
+            <span class="fui-cross"></span>
+        </div>
+    </div>
+        
+    <script src="\assets\js\waifu-tips.js"></script>
+    <script src="\assets\js\live2d.js"></script>
+    <script type="text/javascript">initModel()</script>
+</body>
+
+
+
 <section class="jumbotron">
     <div class="container">
         <h1>{{ site.title }}</h1>
