@@ -7,7 +7,7 @@
 }
 
 .site-header #site-header-brand {
-    color: rgba(255,255,255,0.5)
+    color: #fff;
 }
 
 .site-header .site-header-nav-item {
@@ -15,7 +15,7 @@
 }
 
 .site-header a:hover {
-    color: #fff;
+    color: rgba(255,255,255,0.5)
 }
 
 body {
