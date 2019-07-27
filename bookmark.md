@@ -7,6 +7,19 @@ menu: Bookmark
 <audio src="http://m10.music.126.net/20190726213235/46d0638a9d3f91ed72a8310776326323/ymusic/334c/0292/a2aa/dbcfca93961a35c55f46a7a24a5227f1.mp3" controls="controls" autoplay="autoplay" loop="loop">
 ？害搁这用老浏览器网上冲浪呢，不支持音乐播放
 </audio>
+<link rel="stylesheet" href="css/baguetteBox.min.css">
+<script src="js/baguetteBox.min.js" async></script>
+
+<div class="gallery">
+    <a href="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg" data-caption="Image caption">
+        <img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg" alt="First image">
+    </a>
+    <a href="img/2-2.jpg">
+        <img src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Cirno_50921982.jpg" alt="Second image">
+    </a>
+    
+</div>
+
 # 2019年
   
 ## 七月
