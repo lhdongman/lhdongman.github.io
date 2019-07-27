@@ -7,8 +7,8 @@ menu: Bookmark
 <audio src="http://m10.music.126.net/20190726213235/46d0638a9d3f91ed72a8310776326323/ymusic/334c/0292/a2aa/dbcfca93961a35c55f46a7a24a5227f1.mp3" controls="controls" autoplay="autoplay" loop="loop">
 ？害搁这用老浏览器网上冲浪呢，不支持音乐播放
 </audio>
-<link rel="stylesheet" href="css/baguetteBox.min.css">
-<script src="js/baguetteBox.min.js" async></script>
+<link rel="stylesheet" href="https://raw.githubusercontent.com/Atelier-Icelf/Atelier-Icelf.github.io/master/assets/css/baguetteBox.min.css">
+<script src="https://raw.githubusercontent.com/Atelier-Icelf/Atelier-Icelf.github.io/master/assets/js/baguetteBox.min.js" async></script>
 baguetteBox.run('.gallery');
 
 <div class="gallery">
