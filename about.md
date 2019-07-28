@@ -17,5 +17,6 @@ css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon
 --- -->
 ---
 title: 会客室
+menu: about
 ---
 {% include about.html %}
