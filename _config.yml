@@ -69,7 +69,7 @@ navs:
 
   -
     href: /about
-    label: 秘书室
+    label: 会客室
 
 # Sidebar to show popular repo
 side_bar_repo_limit: 5 # Number of repos to show
