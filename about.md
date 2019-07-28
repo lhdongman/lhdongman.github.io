@@ -1,3 +1,11 @@
+---
+layout: page
+title: 会客室
+css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon-css/css/flag-icon.min.css']
+---
+{% include about.html %}
+
+
 <!-- ---
 
 
@@ -15,9 +23,3 @@ menu: about
                             
 
 --- -->
----
-layout: page
-title: 会客室
----
-css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon-css/css/flag-icon.min.css']
-{% include about.html %}
