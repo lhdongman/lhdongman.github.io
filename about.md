@@ -1,5 +1,4 @@
 ---
-layout: page
 title: 会客室
 css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon-css/css/flag-icon.min.css']
 ---
@@ -8,7 +7,7 @@ css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon
 
 <!-- ---
 
-
+layout: page
 menu: about
 #subtitle:   <h3>模板作者信息</h3>
             #<a role="button" class="btn btn-primary hvr-grow-shadow" href="/assets/files/CV_Chuan_Dong_FR.pdf" target="_blanks">
