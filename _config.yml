@@ -69,7 +69,7 @@ navs:
 
   -
     href: /about
-    label: 会客室
+    label: 湖畔
 
 # Sidebar to show popular repo
 side_bar_repo_limit: 5 # Number of repos to show

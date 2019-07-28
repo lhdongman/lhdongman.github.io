@@ -1,5 +1,5 @@
 ---
-title: 会客室
+title: 湖畔
 css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon-css/css/flag-icon.min.css']
 ---
 {% include about.html %}

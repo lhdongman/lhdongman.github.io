@@ -20,7 +20,7 @@
 
 body {
  background:url('https://gitee.com/atelier-icelf/gerenxiaocangku/raw/master/pageground.jpg')no-repeat top; 
- background-size: 100%;
+ background-size: cover
  background-attachment:fixed
 } 
 
@@ -30,7 +30,7 @@ body {
  color:white; 
  text-shadow:black 0.3em 0.3em 0.3em; 
  background:url('https://gitee.com/atelier-icelf/gerenxiaocangku/raw/master/background.jpg')no-repeat center center fixed;
- background-size: 100%;
+ background-size: cover
 }
 
 .site-header.site-header-nav-scrolled a {
