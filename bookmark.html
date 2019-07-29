@@ -92,6 +92,39 @@ footer {
 /* Highlight.js Tomorrow Night style */
 .hljs-comment,.hljs-quote{color:black}.hljs-deletion,.hljs-name,.hljs-regexp,.hljs-selector-class,.hljs-selector-id,.hljs-tag,.hljs-template-variable,.hljs-variable{color:#c66}.hljs-tag {color: #f8f8f2}.hljs-built_in,.hljs-builtin-name,.hljs-link,.hljs-literal,.hljs-meta,.hljs-number,.hljs-params,.hljs-type{color:#de935f}.hljs-attr{color:#f0c674}.hljs-addition,.hljs-bullet,.hljs-string,.hljs-symbol{color:#b5bd68}.hljs-section,.hljs-title{color:#81a2be}.hljs-keyword,.hljs-selector-tag{color:#b294bb}.hljs{display:block;overflow-x:auto;background:#1d1f21;color:#c5c8c6;padding:.8em}.hljs-emphasis{font-style:italic}.hljs-strong{font-weight:700}
     </style>
+	
+	
+	
+	
+	        <script src="\assets\js\baguetteBox.js" async></script>
+        <script>
+        window.onload = function() {
+            baguetteBox.run('.baguetteBoxOne');
+            baguetteBox.run('.baguetteBoxTwo');
+            baguetteBox.run('.baguetteBoxThree', {
+                animation: 'fadeIn',
+                noScrollbars: true
+            });
+            baguetteBox.run('.baguetteBoxFour', {
+                buttons: false
+            });
+            baguetteBox.run('.baguetteBoxFive', {
+                captions: function(element) {
+                    return element.getElementsByTagName('img')[0].alt;
+                }
+            });
+        
+            if (typeof oldIE === 'undefined' && Object.keys) {
+                hljs.initHighlighting();
+            }
+        
+            var year = document.getElementById('year');
+            year.innerText = new Date().getFullYear();
+        };
+        </script>
+
+	
+	
 </head>
 <body>
 <a href="https://atelier-icelf.github.io/"><img class="b-lazy" src="https://gitee.com/atelier-icelf/gerenxiaocangku/raw/master/whiteface2.gif" alt="返回骨片" ></a>
@@ -129,40 +162,15 @@ footer {
         <a href="https://github.com/Atelier-Icelf/ImageDept/raw/master/images/Darksouls/%E5%86%B7%E5%86%BD%E8%B0%B7.png">
             <img class="b-lazy" src="https://github.com/Atelier-Icelf/ImageDept/raw/master/images/Darksouls/%E5%86%B7%E5%86%BD%E8%B0%B7.png" alt="">
         </a>
-        <a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/JKx2.jpg">
-            <img class="b-lazy" src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/JKx2.jpg" alt="">
-        </a>
         <a href="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Nekomimi.png">
             <img class="b-lazy" src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/Nekomimi.png" alt="">
-        </a>
-        
-		<a href="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/MarianoAndTiara.png">
-            <img class="b-lazy" src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/MarianoAndTiara.png" alt="">
-        </a>
-        
-		<a href="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/530940.png">
-            <img class="b-lazy" src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/530940.png" alt="">
-        </a>
-        
-		<a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/543932.jpg">
-            <img class="b-lazy" src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/543932.jpg" alt="">
-        </a>
+        </a>        
         
 		<a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/547842.jpg">
             <img class="b-lazy" src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/547842.jpg" alt="">
         </a>
         
-		<a href="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/549216.png">
-            <img class="b-lazy" src="https://github.com/Atelier-Icelf/ImageDept/raw/master/Anime/549216.png" alt="">
-        </a>
         
-		<a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/kedama.jpg">
-            <img class="b-lazy" src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/kedama.jpg" alt="">
-        </a>
-       
-	    <a href="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/mafuyu.jpg">
-            <img class="b-lazy" src="https://raw.githubusercontent.com/Atelier-Icelf/ImageDept/master/Anime/mafuyu.jpg" alt="">
-        </a>
 		
     </div>
 
@@ -644,40 +652,11 @@ footer {
                 <a href="https://atelier-icelf.github.io">Cerulean</a>
             </p>
         </footer>
-        <script src="\assets\js\baguetteBox.js" async></script>
-        <!-- <script src="js/highlight.min.js" async></script>
-         --><!--[if lt IE 9]>
-        <script>
-        var oldIE = true;
-        </script>
-        <![endif]-->
-        <script>
-        window.onload = function() {
-            baguetteBox.run('.baguetteBoxOne');
-            baguetteBox.run('.baguetteBoxTwo');
-            baguetteBox.run('.baguetteBoxThree', {
-                animation: 'fadeIn',
-                noScrollbars: true
-            });
-            baguetteBox.run('.baguetteBoxFour', {
-                buttons: false
-            });
-            baguetteBox.run('.baguetteBoxFive', {
-                captions: function(element) {
-                    return element.getElementsByTagName('img')[0].alt;
-                }
-            });
-        
-            if (typeof oldIE === 'undefined' && Object.keys) {
-                hljs.initHighlighting();
-            }
-        
-            var year = document.getElementById('year');
-            year.innerText = new Date().getFullYear();
-        };
-        </script>
+
+
 		<script type="text/javascript" color="255,255,255" pointColor="144,238,144" opacity='0.9' zIndex="-1" count="200" src="\assets\js\canvas-nest.js"></script>
-    <script src="\assets\js\blazy.min.js"></script>
+    <script src="\assets\js\love.js"></script> <!-- 小红心 -->
+	<script src="\assets\js\blazy.min.js"></script>
         <script>
         ;(function() {
             // Initialize

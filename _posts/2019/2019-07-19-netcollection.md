@@ -79,3 +79,6 @@ tags: [collection]
 	
 23. [骂人宝典](https://nmsl.shadiao.app/?tdsourcetag=s_pcqq_aiomsg)
     > 还附带了些其他有意思的玩意儿
+	
+24. [mp4在线转换gif](https://ezgif.com/video-to-gif)
+    > 配合油猴推特脚本可以简单抓gif图
