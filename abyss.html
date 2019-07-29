@@ -6,7 +6,37 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>小隆德</title>
     <link rel="stylesheet" href="\assets\css\baguetteBox.css">
-    <style>
+    
+<script src="\assets\js\baguetteBox.js" async></script>
+<script>
+window.onload = function() {
+    baguetteBox.run('.baguetteBoxOne');
+    baguetteBox.run('.baguetteBoxTwo');
+    baguetteBox.run('.baguetteBoxThree', {
+        animation: 'fadeIn',
+        noScrollbars: true
+    });
+    baguetteBox.run('.baguetteBoxFour', {
+        buttons: false
+    });
+    baguetteBox.run('.baguetteBoxFive', {
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+        }
+    });
+
+    if (typeof oldIE === 'undefined' && Object.keys) {
+        hljs.initHighlighting();
+    }
+
+    var year = document.getElementById('year');
+    year.innerText = new Date().getFullYear();
+};
+</script>
+	
+		
+	
+	<style>
 body {
     background:url('https://gitee.com/atelier-icelf/gerenxiaocangku/raw/master/abyss.jpg')no-repeat  fixed top;   
 	color: white;
@@ -177,38 +207,12 @@ footer {
         <a href="https://atelier-icelf.github.io">Cerulean</a>
     </p>
 </footer>
-<script src="\assets\js\baguetteBox.js" async></script>
 <!-- <script src="js/highlight.min.js" async></script>
  --><!--[if lt IE 9]>
 <script>
 var oldIE = true;
 </script>
 <![endif]-->
-<script>
-window.onload = function() {
-    baguetteBox.run('.baguetteBoxOne');
-    baguetteBox.run('.baguetteBoxTwo');
-    baguetteBox.run('.baguetteBoxThree', {
-        animation: 'fadeIn',
-        noScrollbars: true
-    });
-    baguetteBox.run('.baguetteBoxFour', {
-        buttons: false
-    });
-    baguetteBox.run('.baguetteBoxFive', {
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-        }
-    });
-
-    if (typeof oldIE === 'undefined' && Object.keys) {
-        hljs.initHighlighting();
-    }
-
-    var year = document.getElementById('year');
-    year.innerText = new Date().getFullYear();
-};
-</script>
 <script src="\assets\js\love.js"></script> <!-- 小红心 -->
 </body>
 </html>

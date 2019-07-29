@@ -6,7 +6,38 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>大书库</title>
     <link rel="stylesheet" href="\assets\css\baguetteBox.css">
-    <style>
+    
+	
+	<script src="\assets\js\baguetteBox.js" async></script>
+        <script>
+        window.onload = function() {
+            baguetteBox.run('.baguetteBoxOne');
+            baguetteBox.run('.baguetteBoxTwo');
+            baguetteBox.run('.baguetteBoxThree', {
+                animation: 'fadeIn',
+                noScrollbars: true
+            });
+            baguetteBox.run('.baguetteBoxFour', {
+                buttons: false
+            });
+            baguetteBox.run('.baguetteBoxFive', {
+                captions: function(element) {
+                    return element.getElementsByTagName('img')[0].alt;
+                }
+            });
+        
+            if (typeof oldIE === 'undefined' && Object.keys) {
+                hljs.initHighlighting();
+            }
+        
+            var year = document.getElementById('year');
+            year.innerText = new Date().getFullYear();
+        };
+        </script>
+
+	
+	
+	<style>
 body {
     background:url('https://gitee.com/atelier-icelf/gerenxiaocangku/raw/master/kokoro.jpg')no-repeat  fixed top; 
     background-size: cover	
@@ -96,32 +127,6 @@ footer {
 	
 	
 	
-	        <script src="\assets\js\baguetteBox.js" async></script>
-        <script>
-        window.onload = function() {
-            baguetteBox.run('.baguetteBoxOne');
-            baguetteBox.run('.baguetteBoxTwo');
-            baguetteBox.run('.baguetteBoxThree', {
-                animation: 'fadeIn',
-                noScrollbars: true
-            });
-            baguetteBox.run('.baguetteBoxFour', {
-                buttons: false
-            });
-            baguetteBox.run('.baguetteBoxFive', {
-                captions: function(element) {
-                    return element.getElementsByTagName('img')[0].alt;
-                }
-            });
-        
-            if (typeof oldIE === 'undefined' && Object.keys) {
-                hljs.initHighlighting();
-            }
-        
-            var year = document.getElementById('year');
-            year.innerText = new Date().getFullYear();
-        };
-        </script>
 
 	
 	
