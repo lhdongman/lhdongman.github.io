@@ -7,6 +7,12 @@
     <title>大书库</title>
     <link rel="stylesheet" href="\assets\css\baguetteBox.css">
     
+	<script>
+        ;(function() {
+            // Initialize
+            var bLazy = new Blazy();
+        })();
+    </script>
 	
 	<script src="\assets\js\baguetteBox.js" async></script>
         <script>
@@ -16,8 +22,6 @@
             baguetteBox.run('.baguetteBoxThree', {
                 animation: 'fadeIn',
                 noScrollbars: false
-				buttons: true
-				preload: 0
             });
             baguetteBox.run('.baguetteBoxFour', {
                 buttons: true
@@ -682,12 +686,7 @@ footer {
 		<script type="text/javascript" color="255,255,255" pointColor="144,238,144" opacity='0.9' zIndex="-1" count="200" src="\assets\js\canvas-nest.js"></script>
     <script src="\assets\js\love.js"></script> <!-- 小红心 -->
 	<script src="\assets\js\blazy.min.js"></script>
-        <script>
-        ;(function() {
-            // Initialize
-            var bLazy = new Blazy();
-        })();
-    </script>
+
         </body>
         </html>
         
