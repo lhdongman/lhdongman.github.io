@@ -10,22 +10,24 @@
 	
 	<script src="\assets\js\baguetteBox.js" async></script>
         <script>
-        {
+        window.onload = function() {
             baguetteBox.run('.baguetteBoxOne');
             baguetteBox.run('.baguetteBoxTwo');
             baguetteBox.run('.baguetteBoxThree', {
                 animation: 'fadeIn',
                 noScrollbars: true
+				buttons: true
+				preload: 10
             });
-            baguetteBox.run('.baguetteBoxFour', {
-                buttons: false
+<!--             baguetteBox.run('.baguetteBoxFour', {
+                buttons: true
             });
             baguetteBox.run('.baguetteBoxFive', {
                 captions: function(element) {
                     return element.getElementsByTagName('img')[0].alt;
                 }
             });
-        
+ -->        
             if (typeof oldIE === 'undefined' && Object.keys) {
                 hljs.initHighlighting();
             }
