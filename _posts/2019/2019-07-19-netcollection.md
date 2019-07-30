@@ -82,3 +82,8 @@ tags: [collection]
 	
 24. [mp4在线转换gif](https://ezgif.com/video-to-gif)
     > 配合油猴推特脚本可以简单抓gif图
+	
+25. [对联生成](https://ai.binwang.me/couplet/)
+  > 对联生成器
+	
+	
