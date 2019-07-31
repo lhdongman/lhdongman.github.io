@@ -3,7 +3,7 @@
 .site-header{
     color: #fff;
    /*  background: #4183c4; */
-	background-color:rgba(65,131,196,0.5)
+	background-color:rgba(136,203,252,0.5)
 }
 
 .site-header #site-header-brand {
@@ -11,7 +11,7 @@
 }
 
 .site-header .site-header-nav-item {
-    color: #9acfea;
+    color: #003cc8;
 }
 
 .site-header a:hover {
