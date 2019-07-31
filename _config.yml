@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Atelier-Icelf
-name: 冰精工房
-email: csxy010317jack@qq.com
-location: 致远星
-company: 睿站
-company_url: https://space.bilibili.com/315312
-github_url: https://steamcommunity.com/id/cirnoandcirno/
-description: ...折返吧
+title: 动漫社
+name: 动漫社部门
+email:
+location: 盐城工学院
+company: Bilibili
+company_url: https://www.bilibili.com/
+github_url:
+description: ...
 favicon: favicon.png # Image must be in assets/images
 
 url: https://atelier-icelf.github.io/ # the base hostname & protocol for your site
@@ -53,7 +53,10 @@ paginate_path: 'page:num'
 navs:
   -
     href: /
-    label: 摸鱼部
+    label: 主页
+  -
+    href: /wota
+    label: wota部
 
   -
     href: /open-source
