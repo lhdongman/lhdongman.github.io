@@ -16,7 +16,7 @@ github_url:
 description: ...
 favicon: favicon.png # Image must be in assets/images
 
-url: https://atelier-icelf.github.io/ # the base hostname & protocol for your site
+url: https://www.baidu.com/ # the base hostname & protocol for your site
 
 ## Gem
 gems:
