@@ -59,22 +59,22 @@ navs:
     label: wota部
 
 -
-    href: /_zhaiwu
+    href: /zhaiwu
     label: 宅舞部
 
 -
-    href: /_dianjin
+    href: /dianjin
     label: 电竞部
 
 -
-    href: /_cos
+    href: /cos
     label: cos部
 -
-    href: /_manchuan
+    href: /manchuan
     label: 漫创部
 
 -
-    href: /_peiyin
+    href: /peiyin
     label: 配音部
 
 -
