@@ -4,6 +4,6 @@ bundle exec jekyll serve
 
 git add .
 
-git commit . -m "提交日志"
+git commit . -m "new"
 
 git push

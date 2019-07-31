@@ -19,16 +19,16 @@
 }
 
 body {
- background:url('https://dev.tencent.com/u/atelier-icelf/p/cangku/git/raw/master/pageground3.jpg')no-repeat top; 
+ background:url('https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/index/background.png')no-repeat top;
  background-size: cover
  /* background-attachment:fixed */
-} 
+}
 
 .jumbotron {
- margin-bottom:0px; 
- height:525px; 
- color:white; 
- text-shadow:black 0.3em 0.3em 0.3em; 
+ margin-bottom:0px;
+ height:525px;
+ color:white;
+ text-shadow:black 0.3em 0.3em 0.3em;
  background:url('https://dev.tencent.com/u/atelier-icelf/p/cangku/git/raw/master/background.jpg')no-repeat center center fixed;
  background-size: cover
 }
@@ -44,4 +44,3 @@ body {
 .site-header.site-header-nav-scrolled a:hover {
     color: #4183c4;
 }
-
