@@ -55,31 +55,35 @@ navs:
     href: /
     label: 主页
 -
-    href: /_wota/wota
+    href: /_wota
     label: wota部
 
 -
-    href: /_zhaiwu/zhaiwu
-    label: 宅舞&配音
+    href: /_zhaiwu
+    label: 宅舞部
 
 -
-    href: /dianjin
+    href: /_dianjin
     label: 电竞部
 
 -
-    href: /cos
+    href: /_cos
     label: cos部
 -
     href: /_manchuan
     label: 漫创部
 
 -
-    href: /blog
-    label: 快捷
+    href: /_peiyin
+    label: 配音部
 
 -
     href: /about
-    label: 湖畔
+    label: 聊天室
+
+#-
+  #  href: /blog
+  #  label: 快捷
 
 #-
     #  href: /open-source
