@@ -51,28 +51,39 @@ paginate_path: 'page:num'
 
 # Navigation
 navs:
-  -
+-
     href: /
     label: 主页
-  -
-    href: /wota
+-
+    href: /_wota/wota
     label: wota部
 
-  -
-    href: /open-source
-    label: 仓储部
+-
+    href: /_zhaiwu/zhaiwu
+    label: 宅舞&配音
 
-  -
+-
+    href: /dianjin
+    label: 电竞部
+
+-
+    href: /cos
+    label: cos部
+-
+    href: /_manchuan
+    label: 漫创部
+
+-
     href: /blog
-    label: 统计部
+    label: 快捷
 
-  -
-    href: /bookmark
-    label: 画廊
-
-  -
+-
     href: /about
     label: 湖畔
+
+#-
+    #  href: /open-source
+    #  label: 仓储部
 
 # Sidebar to show popular repo
 side_bar_repo_limit: 5 # Number of repos to show
