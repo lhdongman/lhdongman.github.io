@@ -21,7 +21,4 @@ tags: [chaos]
  最后，感谢参加这次企划的所有成员，无论是策划，舞见，摄影还是后勤<br />
  你们都是最棒的，由衷地感谢最可爱的你们♡！<br />
 
- <iframe src="//player.bilibili.com/player.html?
- aid=54109839
- &cid=94656563
- &page=1" width="1024" height="768" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+ <iframe src="//player.bilibili.com/player.html?aid=54109839&cid=94656563&page=1" width="1024" height="768" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
