@@ -9,7 +9,7 @@
     <!-- Favicon Icon -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
 
-    <title>cos部</title>
+    <title>Wota艺部</title>
     <meta name="description"
           content="...折返吧">
 
@@ -42,7 +42,7 @@
 
 
     <body>
-     	    	<!--子页面用头-->
+    	<!--子页面用头-->
     <header class="site-header">
     <div class="container">
 		 <a id="site-header-brand" href="https://lhdongman.github.io/" title="动漫社">
@@ -98,7 +98,7 @@
                 配音部
 			</a>
 
-			  <a href="https://lhdongman.github.io/about"
+			 <a href="https://lhdongman.github.io/about"
                class=" site-header-nav-item hvr-underline-from-center"
                target="_self"
                title="聊天室">
@@ -122,10 +122,10 @@
             <section class="jumbotron geopattern" data-pattern-id="All My Blogs">
     <div class="container">
         <div id="jumbotron-meta-info">
-            <h1>Cos部</h1>
+            <h1>Wota艺</h1>
             <span class="meta-info">
 
-                    <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; COSPLAY–Complete Of Sincerely Plus Love And True
+                    <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; オタ芸
 
 
             </span>
@@ -144,7 +144,10 @@
 <article class="post container">
 
 
- 		<!-- 文章区 -->
+  <div class="row">
+        <iframe src="https://cloud.mokeyjay.com/pixiv"  frameborder="0"  style="width:360px; height:380px;" style="float:left"></iframe>
+
+        <!-- 文章区 -->
         <div class="col-md-8">
 
             <ol class="post-list">
@@ -163,48 +166,13 @@
                 </li> 文件名
 				-->
 
-				<li class="post-list-item">
-                    <h2 class="post-list-title">
-                        <a class="hvr-underline-from-center" href="https://lhdongman.github.io//cos%E9%83%A8/2019/08/04/cos-maretigong.html" target="_blank">【cos部】Cos正片-1</a>
-                    </h2>
-                    <p class="post-list-description">
-                        【cos部】Cos正片--1
-                    </p>
-                    <p class="post-list-meta">
-                        <span class="octicon octicon-calendar"></span> 2019/8/4
-                    </p>
-                </li><!--马日-->
-
-				<li class="post-list-item">
-                    <h2 class="post-list-title">
-                        <a class="hvr-underline-from-center" href="https://lhdongman.github.io//cos%E9%83%A8/2019/08/04/cos-tujianmaizhengpian1.html" target="_blank">【cos部】Cos正片--土间萌</a>
-                    </h2>
-                    <p class="post-list-description">
-                        【cos部】Cos正片--土间萌
-                    </p>
-                    <p class="post-list-meta">
-                        <span class="octicon octicon-calendar"></span> 2019/8/4
-                    </p>
-                </li><!--土间萌-->
-
-				<li class="post-list-item">
-                    <h2 class="post-list-title">
-                        <a class="hvr-underline-from-center" href="https://lhdongman.github.io//cos%E9%83%A8/2019/08/04/cos-qianyecoszhengpian.html" target="_blank">【cos部】Cos正片--千页</a>
-                    </h2>
-                    <p class="post-list-description">
-                        【cos部】Cos正片--千页
-                    </p>
-                    <p class="post-list-meta">
-                        <span class="octicon octicon-calendar"></span> 2019/8/4
-                    </p>
-                </li><!--千页-->
-
                 <li class="post-list-item">
                     <h2 class="post-list-title">
-                        <a class="hvr-underline-from-center" href="https://lhdongman.github.io//cos%E9%83%A8/2019/08/04/cos-coszhaoxing.html" target="_blank">【cos部】Cosplay部招新啦！</a>
+                        <a class="hvr-underline-from-center" href="https://lhdongman.github.io//wota%E8%89%BA/2019/08/04/wota-wotazhaoxing.html"
+						   target="_blank">【wota艺】wota艺部招新人啦！</a>
                     </h2>
                     <p class="post-list-description">
-                        【cos部招新】Cosplay部招新啦！
+                        wota艺部招新人
                     </p>
                     <p class="post-list-meta">
                         <span class="octicon octicon-calendar"></span> 2019/8/4
@@ -269,6 +237,26 @@
         </div>
 
 
+
+
+<script>
+    $(document).ready(function(){
+
+        // Enable bootstrap tooltip
+        $("body").tooltip({ selector: '[data-toggle=tooltip]' });
+
+        $('.geopattern').each(function(){
+            $(this).geopattern($(this).data('pattern-id'));
+        });
+
+    });
+</script>
+        </div>
+
+    </div>
+
+
+
 <script>
     $(document).ready(function(){
 
@@ -288,9 +276,9 @@
 
     <div class="site-footer">
 
-      <div class="copyright pull-left">
-        <a href="melonwater.xyz">@阿瓜</a>
-      </div>
+        <div class="copyright pull-left">
+            Atelier☆ <a href="http://melonwater.xyz/">@阿瓜</a>
+        </div>
 
         <a href="https://atelier-icelf.github.io/" target="_blank" aria-label="view source code">
             <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
@@ -303,10 +291,10 @@
     </div>
 
     <!-- Third-Party JS -->
-    <script type="text/javascript" src="../bower_components/geopattern/js/geopattern.min.js"></script>
+    <script type="text/javascript" src="bower_components/geopattern/js/geopattern.min.js"></script>
 
     <!-- My JS -->
-    <script type="text/javascript" src="../assets/js/script.js"></script>
+    <script type="text/javascript" src="assets/js/script.js"></script>
 
 
 
