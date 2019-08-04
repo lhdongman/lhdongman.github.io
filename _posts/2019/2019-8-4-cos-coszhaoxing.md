@@ -12,4 +12,4 @@ tags: [chaos]
 无论身材样貌，无论经验是否充足，只需要有足够的爱，来挑战自己吧。
 
 ![草](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/cos/zhaoxin/coszhaoxincaobaba.png)
-![土间萌](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/cos/zhaoxin/coszhaoxintujian.png)
+![土间](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/cos/zhaoxin/coszhaoxintujian.png)
