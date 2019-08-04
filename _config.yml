@@ -10,11 +10,11 @@ title: 动漫社
 name: 动漫社部门
 email:
 location: 盐城工学院
-company: Bilibili
-company_url: https://www.bilibili.com/
-github_url:
+company: @阿瓜
+company_url: melonwater.xyz
+github_url:lhdongman.github.io
 description: ...
-favicon: favicon.png # Image must be in assets/images
+favicon: fa.png # Image must be in assets/images
 
 url: https://lhdongman.github.io/ # the base hostname & protocol for your site
 
