@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 【cos部招新】Cosplay部招新啦！
+title: 【cos部】Cosplay部招新啦！
 category: cos部
 tags: [chaos]
 ---
 
-#Cosplay部
+# Cosplay部招新
+
 > COSPLAY–Complete Of Sincerely Plus Love And True，
 真诚的去完成，加上爱与青春。在这里我们会利用服装、道具来扮演acg中的角色。
 主要活动分为试妆、舞台剧、出外景三种活动。你能遇见新的自己，交上志同道合的朋友。
