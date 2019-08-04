@@ -7,7 +7,7 @@ tags: [chaos]
 
 # Cosplay部招新
 
-> COSPLAY–Complete Of Sincerely Plus Love And True，
+ COSPLAY–Complete Of Sincerely Plus Love And True，
 真诚的去完成，加上爱与青春。在这里我们会利用服装、道具来扮演acg中的角色。
 主要活动分为试妆、舞台剧、出外景三种活动。你能遇见新的自己，交上志同道合的朋友。
 无论身材样貌，无论经验是否充足，只需要有足够的爱，来挑战自己吧。
