@@ -11,5 +11,5 @@ tags: [chaos]
 主要活动分为试妆、舞台剧、出外景三种活动。你能遇见新的自己，交上志同道合的朋友。
 无论身材样貌，无论经验是否充足，只需要有足够的爱，来挑战自己吧。
 
-!(https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/cos/zhaoxin/coszhaoxincaobaba.png)
-!(https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/cos/zhaoxin/coszhaoxintujian.png)
+![草](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/cos/zhaoxin/coszhaoxincaobaba.png)
+![土间萌](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/cos/zhaoxin/coszhaoxintujian.png)
