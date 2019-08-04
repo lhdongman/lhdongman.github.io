@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【cos部招新】Cosplay部
+title: 【cos部招新】Cosplay部招新啦！
 category: cos部
 tags: [chaos]
 ---
