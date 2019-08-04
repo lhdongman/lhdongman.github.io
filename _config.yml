@@ -10,9 +10,9 @@ title: 动漫社
 name: 动漫社部门
 email:
 location: 盐城工学院
-company: @阿瓜
+company: 阿瓜
 company_url: melonwater.xyz
-github_url:lhdongman.github.io
+github_url: lhdongman.github.io
 description: ...
 favicon: fa.png # Image must be in assets/images
 
@@ -43,7 +43,7 @@ kramdown:
   enable_coderay: true
 
 # Disque
-disque: atelier-icelf.disqus.com
+disque:
 
 # Pagination
 paginate: 10
