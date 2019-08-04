@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【cos部】Cos正片--千页
+title: 【cos部】Cos自拍--千页
 category: cos部
 tags: [chaos]
 ---
