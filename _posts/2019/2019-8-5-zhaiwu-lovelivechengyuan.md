@@ -5,7 +5,7 @@ category: 宅舞部
 tags: [chaos]
 ---
 
-#lovelive历代成员表
+# lovelive历代成员表
 
 -|-|-|-|
          |初代  |二代|三代|
