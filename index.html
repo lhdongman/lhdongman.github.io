@@ -2,8 +2,6 @@
 layout: default
 menu: home
 css: ['index.css', 'sidebar-popular-repo.css']
-{% assign sorted_repos = (site.github.public_repositories | sort: 'stargazers_count') | reverse | where: "fork", "false" %}
-{% for repo in sorted_repos | limit: site.side_bar_repo_limit %}
 js: ['autoload.js']
 ---
 <!--<audio src="http://music.163.com/song/media/outer/url?id=33051800.mp3"  autoplay="autoplay" loop="loop">-->
@@ -74,6 +72,8 @@ js: ['autoload.js']
 
         <div class="col-md-4">
           <!-- {% include sidebar-popular-repo.html %}-->
+          {% assign sorted_repos = (site.github.public_repositories | sort: 'stargazers_count') | reverse | where: "fork", "false" %}
+          {% for repo in sorted_repos | limit: site.side_bar_repo_limit %}
           <h3 class="sidebar-title">P站每日精选图片</h3>
             <iframe src="https://cloud.mokeyjay.com/pixiv"  frameborder="0"  style="width:360px; height:380px;" style="float:left"></iframe>
 
