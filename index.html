@@ -75,7 +75,8 @@ js: ['autoload.js']
             <iframe src="https://cloud.mokeyjay.com/pixiv"  frameborder="0"  style="width:360px; height:380px;" style="float:left"></iframe>
 
             <h3 class="sidebar-title">Other</h3>
-               {% include sidebar-popular-repo.html %}
+            {% assign sorted_repos = (site.github.public_repositories | sort: 'stargazers_count') | reverse | where: "fork", "false" %}
+            {% for repo in sorted_repos | limit: site.side_bar_repo_limit %}
             <div class="card text-center">
                 <div class="thumbnail">
                     <div class="card-image geopattern" >
