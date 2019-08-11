@@ -50,10 +50,8 @@ js: ['autoload.js']
                 {% for post in paginator.posts %}
                 <li class="post-list-item">
                     <h2 class="post-list-title">
-                        <!--<a class="hvr-underline-from-center" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>-->
-                          <a class="hvr-underline-from-center" href="www.baidu.com">test1</a>
+                       <a class="hvr-underline-from-center" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                     </h2>
-                    <iframe src="https://cloud.mokeyjay.com/pixiv"  frameborder="0"  style="width:360px; height:380px;" style="float:left"></iframe>
                     <p class="post-list-description">
                         {{ post.excerpt | strip_html | strip }}
                     </p>
@@ -74,6 +72,7 @@ js: ['autoload.js']
 
         <div class="col-md-4">
             {% include sidebar-popular-repo.html %}
+            <iframe src="https://cloud.mokeyjay.com/pixiv"  frameborder="0"  style="width:360px; height:380px;" style="float:left"></iframe>
         </div>
 
     </div>
