@@ -74,7 +74,7 @@ js: ['autoload.js']
           <h3 class="sidebar-title">P站每日精选图片</h3>
             <iframe src="https://cloud.mokeyjay.com/pixiv"  frameborder="0"  style="width:360px; height:380px;" style="float:left"></iframe>
 
-            <h3 class="sidebar-title">Other</h3>
+            <h3 class="sidebar-title">分部</h3>
             {% assign sorted_repos = (site.github.public_repositories | sort: 'stargazers_count') | reverse | where: "fork", "false" %}
             {% for repo in sorted_repos | limit: site.side_bar_repo_limit %}
             <div class="card text-center">
@@ -82,7 +82,7 @@ js: ['autoload.js']
                     <div class="card-image geopattern" >
                         <div class="card-image-cell">
                             <h3 class="card-title">
-                                <a href="#" target="_blank">广告位招租1</a>
+                                <a href="#" target="_blank">极东支部</a>
                             </h3>
                         </div>
                     </div>
@@ -94,7 +94,7 @@ js: ['autoload.js']
                     <div class="card-image geopattern" >
                         <div class="card-image-cell">
                             <h3 class="card-title">
-                                <a href="#" target="_blank">广告位招租2</a>
+                                <a href="#" target="_blank">漫展部</a>
                             </h3>
                         </div>
                     </div>
