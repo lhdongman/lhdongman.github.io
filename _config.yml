@@ -93,10 +93,10 @@ navs:
 side_bar_repo_limit: 5 # Number of repos to show
 
 # Google Analytics
-analytics :
-  provider : google
-  google :
-      tracking_id : 'UA-72165600-1'
+#analytics :provider : google google :tracking_id : 'UA-72165600-1'
+
+baidu:
+  id: 6d99c933463c4e69f2aac4582015d57f
 
 
 # For about.html. Fell free to create your own!
