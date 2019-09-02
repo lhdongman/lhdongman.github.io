@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [赞助]开学福利，免费送大礼！
+title: 【赞助】开学福利，免费送大礼！
 category: 动漫社
 tags: [chaos]
 
