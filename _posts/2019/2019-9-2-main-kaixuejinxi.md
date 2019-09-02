@@ -16,4 +16,4 @@ tags: [chaos]
   所有零食先收货，后付款<br />
 
 
-![1](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/main/zanzhu.jpg)
+![1](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/main/zanzhu.png)
