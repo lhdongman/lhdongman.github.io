@@ -18,4 +18,4 @@ tags: [chaos]
 <br />
 ![wota](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/wota/zhaoxing/wota.png)
 <br />
-群号：605354023[快速入群](shang.qq.com/wpa/qunwpa?idkey=8a3175ba271f87925f798d405d06be1a715c3676a64fc6a432e07351517a1cc9)
+群号：605354023[快速入群](//shang.qq.com/wpa/qunwpa?idkey=8a3175ba271f87925f798d405d06be1a715c3676a64fc6a432e07351517a1cc9)
