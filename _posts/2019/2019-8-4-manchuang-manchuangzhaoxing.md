@@ -13,3 +13,7 @@ tags: [chaos]
 在这里我们需要的是一颗热爱漫创的心以及创作所需的灵感跟基础。流火漫创部期待各位的加入。<br />
 
 ![1](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/manchuang/zhoaixng/1.png)
+<br />
+![manchuang](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/manchuang/zhoaixng/manchuang.png)
+<br />
+群号：882903404[快速入群](shang.qq.com/wpa/qunwpa?idkey=919169d0c7d8eb04b03fccb10216cf9a3e14d0d6996a3361705767eee5ec46c9)

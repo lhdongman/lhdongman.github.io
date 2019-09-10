@@ -21,3 +21,8 @@ tags: [chaos]
 会使用一些制图软件和简单的ps。<br />
 这里放发过来的视频<br />
 配音人CN柱子<br />
+
+<br />
+![peiyin](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/peiying/zhaoxing/peiying.png)
+<br />
+群号：597013212[快速入群](shang.qq.com/wpa/qunwpa?idkey=888055797853d2ea30a48dbfdcb048dbc8ec11a3143aaba9b137692c6a990faa)
