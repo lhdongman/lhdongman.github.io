@@ -19,4 +19,4 @@ tags: [chaos]
 <br />
 ![dianjin](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/dianjin/zhaoxing/dianjin.png)
 <br />
-群号：530576500[快速入群](shang.qq.com/wpa/qunwpa?idkey=5c3214a3a2b88bf75418e91ea7648666b87910a055d54d0570f867546c94139f)
+群号：530576500[快速入群](//shang.qq.com/wpa/qunwpa?idkey=5c3214a3a2b88bf75418e91ea7648666b87910a055d54d0570f867546c94139f)

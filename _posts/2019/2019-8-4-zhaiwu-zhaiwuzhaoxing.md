@@ -18,4 +18,4 @@ tags: [chaos]
 <br />
 ![zhaiwu](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/zhaiwu/zhaoxing/zhaiwu.png)
 <br />
-群号：606114474[快速入群](shang.qq.com/wpa/qunwpa?idkey=87e4b067433fb2c786494bcbfdf9e44522daa4237e1a6d49ac390ebb3f58c661)
+群号：606114474[快速入群](//shang.qq.com/wpa/qunwpa?idkey=87e4b067433fb2c786494bcbfdf9e44522daa4237e1a6d49ac390ebb3f58c661)

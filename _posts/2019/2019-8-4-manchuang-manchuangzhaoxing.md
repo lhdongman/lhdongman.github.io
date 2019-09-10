@@ -16,4 +16,4 @@ tags: [chaos]
 <br />
 ![manchuang](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/manchuang/zhoaixng/manchuang.png)
 <br />
-群号：882903404[快速入群](shang.qq.com/wpa/qunwpa?idkey=919169d0c7d8eb04b03fccb10216cf9a3e14d0d6996a3361705767eee5ec46c9)
+群号：882903404[快速入群](//shang.qq.com/wpa/qunwpa?idkey=919169d0c7d8eb04b03fccb10216cf9a3e14d0d6996a3361705767eee5ec46c9)

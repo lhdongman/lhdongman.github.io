@@ -14,3 +14,7 @@ tags: [chaos]
 
 ![草](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/cos/zhaoxin/coszhaoxincaobaba.png)
 ![土间](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/cos/zhaoxin/coszhaoxintujian.png)
+<br />
+![cos](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/cos/zhaoxin/cos.png)
+<br />
+群号：387128621[快速入群](//shang.qq.com/wpa/qunwpa?idkey=557e5b87199a77c31945c3086a81e78d90e9297c2bd064f9c2b0d162066ee51b)

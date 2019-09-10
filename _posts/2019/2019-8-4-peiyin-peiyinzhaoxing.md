@@ -25,4 +25,4 @@ tags: [chaos]
 <br />
 ![peiyin](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/peiying/zhaoxing/peiying.png)
 <br />
-群号：597013212[快速入群](shang.qq.com/wpa/qunwpa?idkey=888055797853d2ea30a48dbfdcb048dbc8ec11a3143aaba9b137692c6a990faa)
+群号：597013212[快速入群](//shang.qq.com/wpa/qunwpa?idkey=888055797853d2ea30a48dbfdcb048dbc8ec11a3143aaba9b137692c6a990faa)
