@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 【wota艺】【巨帅】Fire Bird~2019年迎新！
+title: 【wota艺】【爆帅】Fire Bird~2019年迎新！
 category: wota艺
 tags: [chaos]
 ---
 
-# Wota艺视频
+# Wota艺招新视频
 
 时间：19-9-13 成员：三土 阿瑞亚 于世 地间 文化程度不高 花姐 艾米莉 <br />
 大家好，这是社联为社团招新安排的舞台（当听到新生10点下课的我们。。。）<br />
