@@ -58,7 +58,7 @@ cos部群号：387128621[快速入群](//shang.qq.com/wpa/qunwpa?idkey=557e5b871
 <br /><br /><br />
 
 ## 桌游部
-桌游部招新指南[详情点这里]()
+桌游部招新指南[详情点这里](https://lhdongman.github.io//%E6%A1%8C%E6%B8%B8%E9%83%A8/2019/09/18/zhuoyou-zhuoyouzhaoxing.html)
 <br />
 桌游部群号：249970281[快速入群](//shang.qq.com/wpa/qunwpa?idkey=742b3168930863161f17f566e1e111164596cf2da9ae7c10899b78f22768de2b)<br />
 ![zhuoyou](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/zhuoyou/zhaoxing/1.png)
