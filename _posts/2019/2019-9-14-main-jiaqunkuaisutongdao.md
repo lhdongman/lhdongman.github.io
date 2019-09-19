@@ -55,3 +55,10 @@ cos部群号：387128621[快速入群](//shang.qq.com/wpa/qunwpa?idkey=557e5b871
 <br />
 配音部群号：597013212[快速入群](//shang.qq.com/wpa/qunwpa?idkey=888055797853d2ea30a48dbfdcb048dbc8ec11a3143aaba9b137692c6a990faa)<br />
 ![peiyin](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/peiying/zhaoxing/peiying.png)
+<br /><br /><br />
+
+## 桌游部
+桌游部招新指南[详情点这里]()
+<br />
+桌游部群号：249970281[快速入群](//shang.qq.com/wpa/qunwpa?idkey=742b3168930863161f17f566e1e111164596cf2da9ae7c10899b78f22768de2b)<br />
+![zhuoyou](https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/zhuoyou/zhaoxing/1.png)
