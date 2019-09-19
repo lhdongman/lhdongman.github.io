@@ -1,0 +1,46 @@
+/** Only for index.html **/
+
+.site-header{
+    color: #fff;
+   /*  background: #4183c4; */
+	background-color:rgba(136,203,252,0.5)
+}
+
+.site-header #site-header-brand {
+    color: #fff;
+}
+
+.site-header .site-header-nav-item {
+    color: #003cc8;
+}
+
+.site-header a:hover {
+    color: #fff;
+}
+
+body {
+ background:url('')no-repeat top;
+ background-size: cover
+ /* background-attachment:fixed */
+}
+
+.jumbotron {
+ margin-bottom:0px;
+ height:525px;
+ color:white;
+ text-shadow:black 0.3em 0.3em 0.3em;
+ background:url('https://dev.tencent.com/u/Water_Emissary/p/pbed/git/raw/master/cos/cos.png')no-repeat center center fixed;
+ background-size: cover
+}
+
+.site-header.site-header-nav-scrolled a {
+    color: #2e2e2e;
+}
+
+.site-header.site-header-nav-scrolled #site-header-brand {
+    color: #2e2e2e !important;
+}
+
+.site-header.site-header-nav-scrolled a:hover {
+    color: #4183c4;
+}
